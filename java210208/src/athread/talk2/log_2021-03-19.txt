@@ -1,0 +1,11 @@
+Server Ready.........
+client info:Socket[addr=/192.168.0.1,port=2530,localport=9234]
+100#유성열
+유성열님이 입장하였습니다.
+201#유성열#hello world
+client info:Socket[addr=/192.168.0.1,port=2532,localport=9234]
+100#김경민
+김경민님이 입장하였습니다.
+500#김경민
+201#유성열#잘가고
+500#유성열
